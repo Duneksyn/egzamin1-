@@ -1,0 +1,36 @@
+table{
+    border: 1px solid  black;
+}
+td{
+    border: 1px solid  black;
+}
+.lewy{
+background-color:rgb(130,69,85);
+color: rgb(255, 255, 255);
+width: 30%;
+height: 200px;
+text-align: center;
+float: left;
+}
+#lewy{
+    background-color:rgb(130,69,85);
+    color: rgb(255, 255, 255);
+    width: 30%;
+    height: 200px;
+    text-align: center;
+    float: left;
+}
+.prawy{
+    background-color:rgb(130,69,85);
+    color: rgb(255, 255, 255);
+    width: 70%;
+    height: 200px;
+    text-align: center;
+}
+#prawy{
+    background-color:rgb(130,69,85);
+    color: rgb(255, 255, 255);
+    width: 70%;
+    height: 200px;
+    text-align: center;
+}
